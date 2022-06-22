@@ -2,7 +2,7 @@
 
 I made this code to keep an eye on my batterie, when we work remotely in cli, or simply if we do not have a GUI on the laptop (like for a server)  
 
-![30%](Batt_30.PNG)  
+![30%](pics/Batt_30.PNG)  
 
 ![60%](pics/Batt_60.PNG)  
 
