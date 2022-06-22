@@ -1,8 +1,8 @@
-#sh_BatteryCapacity_Laptop
+### Show Battery Capacity
 
 I made this code to keep an eye on my batterie, when we work remotely in cli, or simply if we do not have a GUI on the laptop (like for a server)  
 
-![30%](pics/Bat_30.PNG)  
+![30%](Bat_30.PNG)  
 
 ![60%](pics/Bat_60.PNG)  
 
