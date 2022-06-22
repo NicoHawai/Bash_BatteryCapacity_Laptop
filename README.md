@@ -39,7 +39,7 @@ batt_capacity()
 }
 ```
 
-Then in the same file 
+Then in the same file (add or replace the line)
 
 ```
 
