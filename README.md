@@ -12,7 +12,6 @@ Useful when I work remotely in cli, or simply if we do not have a GUI on the lap
 Put the following function in /etc/bashrc (for every users) or ~/.bashrc (just for you)
 
 ```
-#!/bin/bash
 batt_capacity()
 {
         declare -i life_live=$(cat /sys/class/power_supply/BAT0/capacity)
