@@ -2,11 +2,11 @@
 
 I made this code to keep an eye on my batterie, when we work remotely in cli, or simply if we do not have a GUI on the laptop (like for a server)  
 
-![30%](Bat_30.PNG)  
+![30%](Batt_30.PNG)  
 
-![60%](pics/Bat_60.PNG)  
+![60%](pics/Batt_60.PNG)  
 
-![90%](pics/Bat_90.PNG)  
+![90%](pics/Batt_90.PNG)  
 
 Put the following function in /etc/bashrc (for every users) or ~/.bashrc (just for you)
 
