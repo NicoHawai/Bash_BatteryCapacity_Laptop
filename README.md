@@ -1,6 +1,6 @@
 ### Show Battery Capacity
 
-I made this code to keep an eye on my laptop battery.  
+I made this code to keep an eye on my laptop battery when I work in bash.  
 Useful when I work remotely in cli, or simply if we do not have a GUI on the laptop (like for a server)  
 
 ![30%](pics/Batt_30.PNG)  
